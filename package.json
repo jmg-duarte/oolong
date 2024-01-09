@@ -1,9 +1,9 @@
 {
   "name": "oolong",
   "displayName": "Oolong",
-  "description": "A light theme for VSCode.",
+  "description": "Yet another dark theme for VSCode.",
   "publisher": "jmg-duarte",
-  "version": "0.2.0",
+  "version": "0.0.1",
   "icon": "static/logo/logo.png",
   "repository": {
     "type": "git",

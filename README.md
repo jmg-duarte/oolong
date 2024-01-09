@@ -4,7 +4,9 @@
 
 # Oolong VSCode Theme
 
-_The light theme trying to keep your eyes from burning!_
+Yet another dark theme for VSCode.
+
+Based on Jon Blow's Emacs theme and the [Witness theme](https://github.com/ryanpcmcquen/sublime_witness) for Sublime Editor.
 
 ![Rust Screenshot](static/rust_screenshot.png)
 
