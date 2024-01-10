@@ -173,7 +173,10 @@
     "badge.background": "#d6b58f",
     "badge.foreground": "#093430",
 
-    "terminal.foreground": "#d6b58f"
+    "terminal.foreground": "#d6b58f",
+
+    "textLink.foreground": "#0088ff",
+    "textLink.activeForeground": "#0088ff"
   },
   "semanticHighlighting": true,
   "semanticTokenColors": {
