@@ -75,12 +75,13 @@
 
     "statusBar.debuggingBackground": "#ac1f0d",
     "statusBar.debuggingForeground": "#d6b58f",
+
     "debugConsole.infoForeground": "#d6b58f",
     "debugConsole.warningForeground": "#ffce3a",
     "debugConsole.errorForeground": "#ff3a3a",
     "debugConsole.sourceForeground": "#A2D5E0",
     "debugToolBar.background": "#072020",
-    "debugToolBar.border": "#093430",
+
     "debugIcon.pauseForeground": "#0088ff",
     "debugIcon.stepBackForeground": "#0088ff",
     "debugIcon.stepIntoForeground": "#0088ff",
@@ -96,7 +97,7 @@
     "panelTitle.inactiveForeground": "#d6b58f",
     "panelInput.border": "#093430",
 
-    "input.background": "#072020",
+    "input.background": "#082B2B",
     "input.foreground": "#d6b58f",
     "input.border": "#093430",
 
@@ -112,7 +113,6 @@
 
     "quickInput.background": "#072020",
     "quickInput.foreground": "#d6b58f",
-
     "quickInputList.focusBackground": "#0A3D38",
     "quickInputList.focusIconForeground": "#d6b58f",
 
