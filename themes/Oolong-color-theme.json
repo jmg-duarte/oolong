@@ -3,6 +3,8 @@
   "type": "dark",
   "colors": {
     "foreground": "#d6b58f",
+    "descriptionForeground": "#d6b58f99",
+    "errorForeground": "#ff3a3a",
 
     "titleBar.activeBackground": "#072020",
     "titleBar.inactiveBackground": "#072020",
