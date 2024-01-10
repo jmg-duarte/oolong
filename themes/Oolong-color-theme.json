@@ -106,7 +106,10 @@
     "input.foreground": "#d6b58f",
     "input.border": "#093430",
 
-    // TODO: add menu
+    "menu.background": "#082B2B",
+    "menu.foreground": "#d6b58f",
+    "menu.selectionBackground": "#0A3D38",
+    "menu.selectionForeground": "#d6b58f",
 
     "list.hoverBackground": "#0A3D38",
     "list.hoverForeground": "#d6b58f",
