@@ -176,7 +176,9 @@
     "terminal.foreground": "#d6b58f",
 
     "textLink.foreground": "#0088ff",
-    "textLink.activeForeground": "#0088ff"
+    "textLink.activeForeground": "#0088ff",
+
+    "editorLink.activeForeground": "#5AC648"
   },
   "semanticHighlighting": true,
   "semanticTokenColors": {
