@@ -86,6 +86,7 @@
     "panel.background": "#072020",
     "panelTitle.activeForeground": "#d6b58f",
     "panelTitle.inactiveForeground": "#d6b58f",
+    "panelInput.border": "#093430",
 
     "input.background": "#072020",
     "input.foreground": "#d6b58f",
@@ -93,16 +94,16 @@
 
     // TODO: add menu
 
-    "list.hoverBackground": "#093430",
+    "list.hoverBackground": "#0A3D38",
     "list.hoverForeground": "#d6b58f",
-    "list.activeSelectionBackground": "#093430",
+    "list.activeSelectionBackground": "#0A3D38",
     "list.activeSelectionForeground": "#d6b58f",
-    "list.inactiveSelectionBackground": "#093430",
+    "list.inactiveSelectionBackground": "#0A3D38",
     "list.inactiveSelectionForeground": "#d6b58f",
 
     "quickInput.background": "#072020",
     "quickInput.foreground": "#d6b58f",
-    "quickInputList.focusBackground": "#093430",
+    "quickInputList.focusBackground": "#0A3D38",
     "quickInputList.focusIconForeground": "#d6b58f",
 
     "button.foreground": "#d6b58f",
@@ -110,7 +111,7 @@
     "button.hoverBackground": "#082B2B",
     "button.border": "#093430",
     "button.separator": "#d6b58f",
-    "button.secondaryBackground": "#093430",
+    "button.secondaryBackground": "#0A3D38",
 
     "checkbox.background": "#072020",
     "checkbox.border": "#093430",
@@ -144,7 +145,7 @@
     "keybindingLabel.border": "#093430",
     "keybindingLabel.bottomBorder": "#093430",
     "keybindingLabel.foreground": "#d6b58f",
-    "keybindingLabel.background": "#093430",
+    "keybindingLabel.background": "#0A3D38",
 
     "settings.headerBorder": "#d6b58f",
     "settings.headerForeground": "#d6b58f",
