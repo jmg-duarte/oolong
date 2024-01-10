@@ -47,6 +47,8 @@
     "editorIndentGuide.background1": "#d6b58f38",
     "editorInlayHint.foreground": "#d6b58fc5",
 
+    "editorError.foreground": "#ff3a3a",
+
     "tab.hoverBackground": "#082B2B",
     "tab.border": "#093430",
     "tab.activeForeground": "#d6b58f",
@@ -106,6 +108,7 @@
     "list.activeSelectionForeground": "#d6b58f",
     "list.inactiveSelectionBackground": "#0A3D38",
     "list.inactiveSelectionForeground": "#d6b58f",
+    "list.errorForeground": "#ff3a3a",
 
     "quickInput.background": "#072020",
     "quickInput.foreground": "#d6b58f",
