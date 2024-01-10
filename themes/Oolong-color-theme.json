@@ -54,6 +54,8 @@
     "editorBracketHighlight.foreground3": "#5FC3A5",
     "editorBracketHighlight.foreground4": "#C095EF",
 
+    "editorRuler.foreground": "#d6b58f6e",
+
     "tab.hoverBackground": "#082B2B",
     "tab.border": "#093430",
     "tab.activeForeground": "#d6b58f",
