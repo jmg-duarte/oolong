@@ -117,11 +117,11 @@
     "quickInputList.focusIconForeground": "#d6b58f",
 
     "button.foreground": "#d6b58f",
-    "button.background": "#072020",
-    "button.hoverBackground": "#082B2B",
-    "button.border": "#093430",
+    "button.background": "#082B2B",
+    "button.hoverBackground": "#072020",
+    "button.border": "#082B2B",
     "button.separator": "#d6b58f",
-    "button.secondaryBackground": "#0A3D38",
+    "button.secondaryBackground": "#082B2B",
 
     "checkbox.background": "#072020",
     "checkbox.border": "#093430",
