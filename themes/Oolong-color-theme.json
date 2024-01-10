@@ -33,11 +33,15 @@
     "editorGroupHeader.tabsBackground": "#072020",
 
     "editorLineNumber.foreground": "#d6b58f",
-    "editorLineNumber.activeForeground": "#f4c7b7",
+    "editorLineNumber.activeForeground": "#d6b58f",
 
     "editorWidget.background": "#082B2B",
     "editorWidget.foreground": "#d6b58f",
     "editorWidget.border": "#093430",
+
+    "editorSuggestWidget.border": "#093430",
+    "editorSuggestWidget.focusHighlightForeground": "#0088ff",
+    "editorSuggestWidget.highlightForeground": "#0088ff",
 
     "editorCursor.foreground": "#d6b58f",
     "editorIndentGuide.background1": "#d6b58f38",
@@ -105,6 +109,7 @@
 
     "quickInput.background": "#072020",
     "quickInput.foreground": "#d6b58f",
+
     "quickInputList.focusBackground": "#0A3D38",
     "quickInputList.focusIconForeground": "#d6b58f",
 
