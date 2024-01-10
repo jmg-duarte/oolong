@@ -4,16 +4,15 @@
   "colors": {
     "foreground": "#d6b58f",
 
-    "titleBar.activeBackground": "#072626",
-    "titleBar.inactiveBackground": "#072626",
+    "titleBar.activeBackground": "#072020",
+    "titleBar.inactiveBackground": "#072020",
     "titleBar.inactiveForeground": "#d6b58f92",
     "titleBar.activeForeground": "#d6b58f",
     "titleBar.border": "#093430",
 
     "focusBorder": "#093430",
 
-    // Editor
-    "editor.background": "#082B2B", // should be 072626 and all others should be darker
+    "editor.background": "#072626",
     "editor.foreground": "#d6b58f",
     "editor.lineHighlightBackground": "#0A3D38",
     "editor.selectionBackground": "#0B413C",
@@ -29,7 +28,7 @@
 
     "editorGroup.border": "#093430",
     "editorGroupHeader.tabsBorder": "#093430",
-    "editorGroupHeader.tabsBackground": "#072626",
+    "editorGroupHeader.tabsBackground": "#072020",
 
     "editorLineNumber.foreground": "#d6b58f",
     "editorLineNumber.activeForeground": "#f4c7b7",
@@ -47,24 +46,24 @@
     "tab.activeForeground": "#d6b58f",
     "tab.activeBorderTop": "#d6b58f",
     "tab.activeBorder": "#082B2B",
-    "tab.inactiveBackground": "#072626",
+    "tab.inactiveBackground": "#072020",
 
-    "activityBar.background": "#072626",
+    "activityBar.background": "#072020",
     "activityBar.foreground": "#d6b58f",
     "activityBar.border": "#093430",
     "activityBarBadge.background": "#d6b58f",
     "activityBarBadge.foreground": "#093430",
 
-    "sideBar.background": "#072626",
+    "sideBar.background": "#072020",
     "sideBar.foreground": "#d6b58f",
     "sideBar.border": "#093430",
-    "sideBarSectionHeader.background": "#072626",
+    "sideBarSectionHeader.background": "#072020",
     "sideBarSectionHeader.border": "#093430",
 
-    "statusBar.background": "#072626",
+    "statusBar.background": "#072020",
     "statusBar.foreground": "#d6b58f",
     "statusBar.border": "#093430",
-    "statusBar.noFolderBackground": "#072626",
+    "statusBar.noFolderBackground": "#072020",
 
     "statusBar.debuggingBackground": "#ac1f0d",
     "statusBar.debuggingForeground": "#d6b58f",
@@ -74,11 +73,11 @@
     "debugConsole.sourceForeground": "#A2D5E0",
 
     "panel.border": "#093430",
-    "panel.background": "#072626",
+    "panel.background": "#072020",
     "panelTitle.activeForeground": "#d6b58f",
     "panelTitle.inactiveForeground": "#d6b58f",
 
-    "input.background": "#072626",
+    "input.background": "#072020",
     "input.foreground": "#d6b58f",
     "input.border": "#093430",
 
@@ -91,37 +90,37 @@
     "list.inactiveSelectionBackground": "#093430",
     "list.inactiveSelectionForeground": "#d6b58f",
 
-    "quickInput.background": "#072626",
+    "quickInput.background": "#072020",
     "quickInput.foreground": "#d6b58f",
     "quickInputList.focusBackground": "#093430",
     "quickInputList.focusIconForeground": "#d6b58f",
 
     "button.foreground": "#d6b58f",
-    "button.background": "#072626",
+    "button.background": "#072020",
     "button.hoverBackground": "#082B2B",
     "button.border": "#093430",
     "button.separator": "#d6b58f",
     "button.secondaryBackground": "#093430",
 
-    "checkbox.background": "#072626",
+    "checkbox.background": "#072020",
     "checkbox.border": "#093430",
 
-    "dropdown.background": "#072626",
+    "dropdown.background": "#072020",
     "dropdown.border": "#093430",
 
     "peekView.border": "#093430",
     "peekViewEditor.background": "#082B2B",
-    "peekViewTitle.background": "#072626",
+    "peekViewTitle.background": "#072020",
     "peekViewTitleLabel.foreground": "#d6b58f",
     "peekViewResult.fileForeground": "#d6b58f",
     "peekViewResult.lineForeground": "#d6b58f",
     "peekViewResult.matchHighlightBackground": "#0B413C",
-    "peekViewResult.background": "#072626",
+    "peekViewResult.background": "#072020",
     "peekViewResult.selectionBackground": "#093430",
     "peekViewResult.selectionForeground": "#d6b58f",
 
     "notifications.border": "#093430",
-    "notifications.background": "#072626",
+    "notifications.background": "#072020",
 
     "scrollbar.shadow": "#093430",
     "scrollbarSlider.background": "#d6b58f60",
