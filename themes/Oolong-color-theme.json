@@ -66,8 +66,12 @@
     "statusBar.border": "#093430",
     "statusBar.noFolderBackground": "#072626",
 
-    // TODO: review
-    "statusBar.debuggingBackground": "#cc5640",
+    "statusBar.debuggingBackground": "#ac1f0d",
+    "statusBar.debuggingForeground": "#d6b58f",
+    "debugConsole.infoForeground": "#d6b58f",
+    "debugConsole.warningForeground": "#ffce3a",
+    "debugConsole.errorForeground": "#ff3a3a",
+    "debugConsole.sourceForeground": "#A2D5E0",
 
     "panel.border": "#093430",
     "panel.background": "#072626",
