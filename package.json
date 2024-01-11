@@ -23,7 +23,7 @@
     "themes": [
       {
         "label": "Oolong",
-        "uiTheme": "vs",
+        "uiTheme": "vs-dark",
         "path": "./themes/Oolong-color-theme.json"
       }
     ]
