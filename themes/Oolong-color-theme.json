@@ -405,6 +405,7 @@
       "name": "Fallback: Control Flow",
       "scope": [
         "keyword.control.flow",
+        "keyword.control.trycatch",
         // this one might be "overkill" but it adds support for "barebones" JS/TS
         "keyword.control.conditional"
       ],
