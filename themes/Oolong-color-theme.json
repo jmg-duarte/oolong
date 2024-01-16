@@ -403,7 +403,11 @@
     },
     {
       "name": "Fallback: Control Flow",
-      "scope": ["keyword.control.flow"],
+      "scope": [
+        "keyword.control.flow",
+        // this one might be "overkill" but it adds support for "barebones" JS/TS
+        "keyword.control.conditional"
+      ],
       "settings": {
         "fontStyle": "bold"
       }
