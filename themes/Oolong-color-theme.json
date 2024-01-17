@@ -406,8 +406,8 @@
       "scope": [
         "keyword.control.flow",
         "keyword.control.trycatch",
-        // this one might be "overkill" but it adds support for "barebones" JS/TS
-        "keyword.control.conditional"
+        "keyword.control.conditional",
+        "keyword.control.loop.ts"
       ],
       "settings": {
         "fontStyle": "bold"
@@ -502,6 +502,37 @@
       ],
       "settings": {
         "foreground": "#9AE399"
+      }
+    },
+    {
+      "name": "TS Keyword",
+      "scope": [
+        // NOTE: might be interesting to default using this list without the .ts
+        "storage.type.ts",
+        "storage.type.type.ts",
+        "storage.type.class.ts",
+        "storage.modifier.ts",
+        "storage.modifier.async.ts",
+        "keyword.control.export.ts",
+        "keyword.control.import.ts",
+        "keyword.control.from.ts",
+        "keyword.control.flow.ts",
+        "keyword.control.conditional.ts",
+        "keyword.control.loop.ts",
+        "keyword.control.as.ts",
+        "keyword.operator.expression.of.ts",
+        "keyword.operator.expression.in.ts",
+        "keyword.control.trycatch.ts"
+      ],
+      "settings": {
+        "foreground": "#9AE399"
+      }
+    },
+    {
+      "name": "TS: This",
+      "scope": ["variable.language.this.ts"],
+      "settings": {
+        "fontStyle": "underline"
       }
     }
   ]
