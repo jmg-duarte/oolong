@@ -519,7 +519,7 @@
         "keyword.operator.expression.in.ts",
         "keyword.operator.expression.of.ts",
         "keyword.operator.expression.typeof.ts",
-        "keyword.operator.operator.new.ts",
+        "keyword.operator.new.ts",
         "storage.modifier.async.ts",
         "storage.modifier.ts",
         "storage.type.class.ts",
