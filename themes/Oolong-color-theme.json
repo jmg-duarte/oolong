@@ -522,7 +522,8 @@
         "keyword.control.as.ts",
         "keyword.operator.expression.of.ts",
         "keyword.operator.expression.in.ts",
-        "keyword.control.trycatch.ts"
+        "keyword.control.trycatch.ts",
+        "keyword.operator.expression.typeof.ts"
       ],
       "settings": {
         "foreground": "#9AE399"
