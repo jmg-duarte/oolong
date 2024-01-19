@@ -126,9 +126,9 @@
     "quickInputList.focusIconForeground": "#d6b58f",
 
     "button.foreground": "#d6b58f",
-    "button.background": "#082B2B",
+    "button.background": "#0b3934",
     "button.hoverBackground": "#072020",
-    "button.border": "#082B2B",
+    "button.border": "#0b3934",
     "button.separator": "#d6b58f",
     "button.secondaryBackground": "#082B2B",
 
