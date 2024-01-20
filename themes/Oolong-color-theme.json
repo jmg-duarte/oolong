@@ -524,7 +524,8 @@
         "storage.modifier.ts",
         "storage.type.class.ts",
         "storage.type.ts",
-        "storage.type.type.ts"
+        "storage.type.type.ts",
+        "storage.type.function.ts"
       ],
       "settings": {
         "foreground": "#9AE399"
@@ -557,7 +558,8 @@
         "storage.modifier.js",
         "storage.type.class.js",
         "storage.type.js",
-        "storage.type.type.js"
+        "storage.type.type.js",
+        "storage.type.function.js"
       ],
       "settings": {
         "foreground": "#9AE399"
