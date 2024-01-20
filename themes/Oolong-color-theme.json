@@ -407,7 +407,7 @@
         "keyword.control.flow",
         "keyword.control.trycatch",
         "keyword.control.conditional",
-        "keyword.control.loop.ts"
+        "keyword.control.loop"
       ],
       "settings": {
         "fontStyle": "bold"
@@ -533,6 +533,39 @@
     {
       "name": "TS: This",
       "scope": ["variable.language.this.ts"],
+      "settings": {
+        "fontStyle": "underline"
+      }
+    },
+    {
+      "name": "JS: Keyword",
+      "scope": [
+        // NOTE: might be interesting to default using this list without the .js
+        "keyword.control.as.js",
+        "keyword.control.conditional.js",
+        "keyword.control.export.js",
+        "keyword.control.flow.js",
+        "keyword.control.from.js",
+        "keyword.control.import.js",
+        "keyword.control.loop.js",
+        "keyword.control.trycatch.js",
+        "keyword.operator.expression.in.js",
+        "keyword.operator.expression.of.js",
+        "keyword.operator.expression.typeof.js",
+        "keyword.operator.new.js",
+        "storage.modifier.async.js",
+        "storage.modifier.js",
+        "storage.type.class.js",
+        "storage.type.js",
+        "storage.type.type.js"
+      ],
+      "settings": {
+        "foreground": "#9AE399"
+      }
+    },
+    {
+      "name": "JS: This",
+      "scope": ["variable.language.this.js"],
       "settings": {
         "fontStyle": "underline"
       }
