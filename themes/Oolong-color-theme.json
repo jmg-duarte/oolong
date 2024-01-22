@@ -516,6 +516,7 @@
         "keyword.control.import.ts",
         "keyword.control.loop.ts",
         "keyword.control.trycatch.ts",
+        "keyword.operator.expression.delete.js",
         "keyword.operator.expression.in.ts",
         "keyword.operator.expression.of.ts",
         "keyword.operator.expression.typeof.ts",
@@ -523,10 +524,10 @@
         "storage.modifier.async.ts",
         "storage.modifier.ts",
         "storage.type.class.ts",
-        "storage.type.ts",
-        "storage.type.type.ts",
         "storage.type.function.ts",
-        "storage.type.namespace.ts"
+        "storage.type.namespace.ts",
+        "storage.type.ts",
+        "storage.type.type.ts"
       ],
       "settings": {
         "foreground": "#9AE399"
@@ -551,6 +552,7 @@
         "keyword.control.import.js",
         "keyword.control.loop.js",
         "keyword.control.trycatch.js",
+        "keyword.operator.expression.delete.js",
         "keyword.operator.expression.in.js",
         "keyword.operator.expression.of.js",
         "keyword.operator.expression.typeof.js",
@@ -558,10 +560,10 @@
         "storage.modifier.async.js",
         "storage.modifier.js",
         "storage.type.class.js",
-        "storage.type.js",
-        "storage.type.type.js",
         "storage.type.function.js",
-        "storage.type.namespace.js"
+        "storage.type.js",
+        "storage.type.namespace.js",
+        "storage.type.type.js"
       ],
       "settings": {
         "foreground": "#9AE399"
