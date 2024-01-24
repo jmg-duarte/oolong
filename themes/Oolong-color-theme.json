@@ -562,7 +562,7 @@
         "storage.modifier.js",
         "storage.type.class.js",
         "storage.type.function.js",
-        "storage.type.interface.ts",
+        "storage.type.interface.js",
         "storage.type.js",
         "storage.type.namespace.js",
         "storage.type.type.js"
