@@ -494,11 +494,13 @@
     {
       "name": "Python Keyword: Declarations",
       "scope": [
-        "storage.type.class.python",
-        "storage.type.function.python",
-        "storage.type.function.async.python",
+        "constant.language.python",
+        "keyword.control.flow.python",
         "keyword.control.import.python",
-        "keyword.control.flow.python"
+        "keyword.operator.logical.python",
+        "storage.type.class.python",
+        "storage.type.function.async.python",
+        "storage.type.function.python"
       ],
       "settings": {
         "foreground": "#9AE399"
