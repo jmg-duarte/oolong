@@ -509,7 +509,10 @@
     {
       "name": "TS Keyword",
       "scope": [
-        // NOTE: might be interesting to default using this list without the .ts
+        "constant.language.boolean.false.ts",
+        "constant.language.boolean.true.ts",
+        "constant.language.null.ts",
+        "constant.language.undefined.ts",
         "keyword.control.as.ts",
         "keyword.control.conditional.ts",
         "keyword.control.export.ts",
@@ -518,8 +521,9 @@
         "keyword.control.import.ts",
         "keyword.control.loop.ts",
         "keyword.control.trycatch.ts",
-        "keyword.operator.expression.delete.js",
+        "keyword.operator.expression.delete.ts",
         "keyword.operator.expression.in.ts",
+        "keyword.operator.expression.instanceof.ts",
         "keyword.operator.expression.of.ts",
         "keyword.operator.expression.typeof.ts",
         "keyword.operator.new.ts",
@@ -528,8 +532,8 @@
         "storage.type.class.ts",
         "storage.type.function.ts",
         "storage.type.interface.ts",
-        "storage.type.namespace.ts",
         "storage.type.ts",
+        "storage.type.namespace.ts",
         "storage.type.type.ts"
       ],
       "settings": {
@@ -546,7 +550,10 @@
     {
       "name": "JS: Keyword",
       "scope": [
-        // NOTE: might be interesting to default using this list without the .js
+        "constant.language.boolean.false.js",
+        "constant.language.boolean.true.js",
+        "constant.language.null.js",
+        "constant.language.undefined.js",
         "keyword.control.as.js",
         "keyword.control.conditional.js",
         "keyword.control.export.js",
@@ -557,6 +564,7 @@
         "keyword.control.trycatch.js",
         "keyword.operator.expression.delete.js",
         "keyword.operator.expression.in.js",
+        "keyword.operator.expression.instanceof.js",
         "keyword.operator.expression.of.js",
         "keyword.operator.expression.typeof.js",
         "keyword.operator.new.js",
