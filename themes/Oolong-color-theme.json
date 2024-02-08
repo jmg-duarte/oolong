@@ -587,6 +587,74 @@
       "settings": {
         "fontStyle": "underline"
       }
+    },
+    {
+      "name": "JSX: Keyword",
+      "scope": [
+        "constant.language.boolean.false.jsx",
+        "constant.language.boolean.true.jsx",
+        "constant.language.null.jsx",
+        "constant.language.undefined.jsx",
+        "keyword.control.as.jsx",
+        "keyword.control.conditional.jsx",
+        "keyword.control.export.jsx",
+        "keyword.control.flow.jsx",
+        "keyword.control.from.jsx",
+        "keyword.control.import.jsx",
+        "keyword.control.loop.jsx",
+        "keyword.control.trycatch.jsx",
+        "keyword.operator.expression.delete.jsx",
+        "keyword.operator.expression.in.jsx",
+        "keyword.operator.expression.instanceof.jsx",
+        "keyword.operator.expression.of.jsx",
+        "keyword.operator.expression.typeof.jsx",
+        "keyword.operator.new.jsx",
+        "storage.modifier.async.jsx",
+        "storage.modifier.jsx",
+        "storage.type.class.jsx",
+        "storage.type.function.jsx",
+        "storage.type.interface.jsx",
+        "storage.type.jsx",
+        "storage.type.namespace.jsx",
+        "storage.type.type.jsx"
+      ],
+      "settings": {
+        "foreground": "#9AE399"
+      }
+    },
+    {
+      "name": "TSX: Keyword",
+      "scope": [
+        "constant.language.boolean.false.tsx",
+        "constant.language.boolean.true.tsx",
+        "constant.language.null.tsx",
+        "constant.language.undefined.tsx",
+        "keyword.control.as.tsx",
+        "keyword.control.conditional.tsx",
+        "keyword.control.export.tsx",
+        "keyword.control.flow.tsx",
+        "keyword.control.from.tsx",
+        "keyword.control.import.tsx",
+        "keyword.control.loop.tsx",
+        "keyword.control.trycatch.tsx",
+        "keyword.operator.expression.delete.tsx",
+        "keyword.operator.expression.in.tsx",
+        "keyword.operator.expression.instanceof.tsx",
+        "keyword.operator.expression.of.tsx",
+        "keyword.operator.expression.typeof.tsx",
+        "keyword.operator.new.tsx",
+        "storage.modifier.async.tsx",
+        "storage.modifier.tsx",
+        "storage.type.class.tsx",
+        "storage.type.function.tsx",
+        "storage.type.interface.tsx",
+        "storage.type.tsx",
+        "storage.type.namespace.tsx",
+        "storage.type.type.tsx"
+      ],
+      "settings": {
+        "foreground": "#9AE399"
+      }
     }
   ]
 }
