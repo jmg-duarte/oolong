@@ -530,10 +530,11 @@
         "storage.modifier.async.ts",
         "storage.modifier.ts",
         "storage.type.class.ts",
+        "storage.type.enum.ts",
         "storage.type.function.ts",
         "storage.type.interface.ts",
-        "storage.type.ts",
         "storage.type.namespace.ts",
+        "storage.type.ts",
         "storage.type.type.ts"
       ],
       "settings": {
@@ -571,6 +572,7 @@
         "storage.modifier.async.js",
         "storage.modifier.js",
         "storage.type.class.js",
+        "storage.type.enum.js",
         "storage.type.function.js",
         "storage.type.interface.js",
         "storage.type.js",
@@ -612,6 +614,7 @@
         "storage.modifier.async.jsx",
         "storage.modifier.jsx",
         "storage.type.class.jsx",
+        "storage.type.enum.jsx",
         "storage.type.function.jsx",
         "storage.type.interface.jsx",
         "storage.type.jsx",
@@ -646,10 +649,11 @@
         "storage.modifier.async.tsx",
         "storage.modifier.tsx",
         "storage.type.class.tsx",
+        "storage.type.enum.tsx",
         "storage.type.function.tsx",
         "storage.type.interface.tsx",
-        "storage.type.tsx",
         "storage.type.namespace.tsx",
+        "storage.type.tsx",
         "storage.type.type.tsx"
       ],
       "settings": {
