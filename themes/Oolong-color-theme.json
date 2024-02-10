@@ -19,13 +19,13 @@
     "editor.selectionBackground": "#0B413C",
     "editor.selectionHighlightBorder": "#0F574B",
 
-    "editor.wordHighlightBackground": "#034661",
+    "editor.wordHighlightBackground": "#034661d0",
     "editor.wordHighlightBorder": "#034661",
-    "editor.rangeHighlightBackground": "#034661",
+    "editor.rangeHighlightBackground": "#034661d0",
 
-    "editor.findMatchHighlightBackground": "#034661",
+    "editor.findMatchHighlightBackground": "#034661d0",
     "editor.findMatchHighlightBorder": "#034661",
-    "editor.hoverHighlightBackground": "#034661",
+    "editor.hoverHighlightBackground": "#034661d0",
 
     "editorGroup.border": "#0b3934",
     "editorGroupHeader.tabsBorder": "#0b3934",
