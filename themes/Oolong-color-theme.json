@@ -408,7 +408,8 @@
         "keyword.control.flow",
         "keyword.control.trycatch",
         "keyword.control.conditional",
-        "keyword.control.loop"
+        "keyword.control.loop",
+        "keyword.control.switch"
       ],
       "settings": {
         "fontStyle": "bold"
