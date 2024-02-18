@@ -256,7 +256,8 @@
       "fontStyle": "bold"
     },
     "*.unsafe": {
-      "fontStyle": "bold"
+      "fontStyle": "bold",
+      "foreground": "#fe6f6f"
     },
     "*.consuming": {
       "fontStyle": "italic"
