@@ -403,6 +403,7 @@
       }
     },
     {
+      // NOTE: maybe just keyword.control would work
       "name": "Fallback: Control Flow",
       "scope": [
         "keyword.control.flow",
@@ -664,6 +665,13 @@
       ],
       "settings": {
         "foreground": "#9AE399"
+      }
+    },
+    {
+      "name": "Go: Control Flow",
+      "scope": ["keyword.control.go"],
+      "settings": {
+        "fontStyle": "bold"
       }
     }
   ]
