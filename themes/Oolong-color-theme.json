@@ -529,6 +529,7 @@
         "keyword.operator.expression.delete.ts",
         "keyword.operator.expression.in.ts",
         "keyword.operator.expression.instanceof.ts",
+        "keyword.operator.expression.is.ts",
         "keyword.operator.expression.of.ts",
         "keyword.operator.expression.typeof.ts",
         "keyword.operator.new.ts",
@@ -572,6 +573,7 @@
         "keyword.operator.expression.delete.js",
         "keyword.operator.expression.in.js",
         "keyword.operator.expression.instanceof.js",
+        "keyword.operator.expression.is.js",
         "keyword.operator.expression.of.js",
         "keyword.operator.expression.typeof.js",
         "keyword.operator.new.js",
@@ -581,8 +583,8 @@
         "storage.type.enum.js",
         "storage.type.function.js",
         "storage.type.interface.js",
-        "storage.type.js",
         "storage.type.namespace.js",
+        "storage.type.js",
         "storage.type.type.js"
       ],
       "settings": {
@@ -615,6 +617,7 @@
         "keyword.operator.expression.delete.jsx",
         "keyword.operator.expression.in.jsx",
         "keyword.operator.expression.instanceof.jsx",
+        "keyword.operator.expression.is.jsx",
         "keyword.operator.expression.of.jsx",
         "keyword.operator.expression.typeof.jsx",
         "keyword.operator.new.jsx",
@@ -624,8 +627,8 @@
         "storage.type.enum.jsx",
         "storage.type.function.jsx",
         "storage.type.interface.jsx",
-        "storage.type.jsx",
         "storage.type.namespace.jsx",
+        "storage.type.jsx",
         "storage.type.type.jsx"
       ],
       "settings": {
@@ -651,6 +654,7 @@
         "keyword.operator.expression.delete.tsx",
         "keyword.operator.expression.in.tsx",
         "keyword.operator.expression.instanceof.tsx",
+        "keyword.operator.expression.is.tsx",
         "keyword.operator.expression.of.tsx",
         "keyword.operator.expression.typeof.tsx",
         "keyword.operator.new.tsx",
