@@ -289,60 +289,6 @@
       }
     },
     {
-      "name": "Markup: Heading",
-      "scope": ["markup.heading.markdown"],
-      "settings": {
-        "fontStyle": "bold"
-      }
-    },
-    {
-      "name": "Markup: Quote",
-      "scope": ["markup.quote"],
-      "settings": {
-        "foreground": "#5FC3A5",
-        "fontStyle": "italic"
-      }
-    },
-    {
-      "name": "Markup: Link",
-      "scope": [
-        "markup.underline.link.markdown",
-        "markup.underline.link.image.markdown"
-      ],
-      "settings": {
-        "foreground": "#2a5dde",
-        "fontStyle": "underline italic"
-      }
-    },
-    {
-      "name": "Markup: Link Title",
-      "scope": [
-        "string.other.link.title.markdown",
-        "string.other.link.description.markdown"
-      ],
-      "settings": {
-        "foreground": "#9AE399",
-        "fontStyle": "underline"
-      }
-    },
-    {
-      "name": "Markdown: List Bullet",
-      "scope": ["punctuation.definition.list.begin.markdown"],
-      "settings": {
-        "fontStyle": "bold"
-      }
-    },
-    {
-      "name": "Markdown: List",
-      "scope": [
-        "markup.list.unnumbered.markdown",
-        "markup.list.numbered.markdown"
-      ],
-      "settings": {
-        "fontStyle": "italic"
-      }
-    },
-    {
       "name": "YAML: True, False, Null",
       "scope": [
         "constant.language.boolean.yaml",
@@ -643,6 +589,56 @@
       "scope": ["keyword.control.go"],
       "settings": {
         "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Markup: Headings",
+      "scope": ["markup.heading"],
+      "settings": {
+        "fontStyle": "bold",
+        "foreground": "#9AE399"
+      }
+    },
+    {
+      "name": "Markup: Code",
+      "scope": ["markup.fenced_code.block"],
+      "settings": {
+        "foreground": "#A2D5E0"
+      }
+    },
+    {
+      "name": "Markup: Links",
+      "scope": ["markup.underline.link"],
+      "settings": {
+        "foreground": "#0088ff"
+      }
+    },
+    {
+      "name": "Markup: Italic",
+      "scope": ["markup.italic"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Markup: Bold",
+      "scope": ["markup.bold"],
+      "settings": {
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Markup: Strikethrough",
+      "scope": ["markup.strikethrough"],
+      "settings": {
+        "fontStyle": "strikethrough"
+      }
+    },
+    {
+      "name": "Markup: Underline",
+      "scope": ["markup.underline"],
+      "settings": {
+        "fontStyle": "underline"
       }
     }
   ]
