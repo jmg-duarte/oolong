@@ -422,6 +422,7 @@
         "keyword.operator.logical.python",
         "storage.type.class.python",
         "storage.type.function.async.python",
+        "storage.type.function.lambda.python",
         "storage.type.function.python"
       ],
       "settings": {
