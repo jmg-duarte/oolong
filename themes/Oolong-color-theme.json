@@ -641,6 +641,14 @@
       "settings": {
         "fontStyle": "underline"
       }
+    },
+    {
+      "name": "Markup: Quotes",
+      "scope": ["markup.quote"],
+      "settings": {
+        "foreground": "#5FC3A5",
+        "fontStyle": "italic"
+      }
     }
   ]
 }
