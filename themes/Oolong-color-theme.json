@@ -315,7 +315,7 @@
     },
     {
       "name": "Fallback: Types",
-      "scope": ["entity.name.type", "support.type"],
+      "scope": ["entity.name.type", "support.type", "storage.type"],
       "settings": {
         "foreground": "#A2D5E0",
         "fontStyle": ""
@@ -324,13 +324,7 @@
     {
       // NOTE: maybe just keyword.control would work
       "name": "Fallback: Control Flow",
-      "scope": [
-        "keyword.control.flow",
-        "keyword.control.trycatch",
-        "keyword.control.conditional",
-        "keyword.control.loop",
-        "keyword.control.switch"
-      ],
+      "scope": ["keyword.control"],
       "settings": {
         "fontStyle": "bold"
       }
@@ -401,6 +395,20 @@
       "name": "Fallback: Event",
       "scope": ["variable.other.event"],
       "settings": {}
+    },
+    {
+      "name": "Fallback: Keywords",
+      "scope": [
+        "keyword.function",
+        "keyword.control",
+        "keyword.var",
+        "keyword.type",
+        "keyword.package",
+        "keyword.interface"
+      ],
+      "settings": {
+        "foreground": "#9AE399"
+      }
     },
     {
       "name": "Python: Decorators",
