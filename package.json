@@ -37,7 +37,7 @@
   "scripts": {
     "package": "vsce package",
     "login": "vsce login jmg-duarte",
-    "publish": "vsce publish",
+    "publish": "vsce publish && git push && git push --tags",
     "patch": "npm version patch -m 'release: %s'",
     "minor": "npm version minor -m 'release: %s'",
     "major": "npm version major -m 'release: %s'"
