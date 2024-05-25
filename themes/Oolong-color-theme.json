@@ -68,6 +68,7 @@
     "editorLineNumber.foreground": "#E3BC8F",
     "editorLink.activeForeground": "#5AC648",
     "editorRuler.foreground": "#E3BC8F6e",
+    "editorStickyScrollHover.background": "#0A3D38",
     "editorSuggestWidget.border": "#0b3934",
     "editorSuggestWidget.focusHighlightForeground": "#0088ff",
     "editorSuggestWidget.highlightForeground": "#0088ff",
