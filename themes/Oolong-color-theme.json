@@ -160,8 +160,9 @@
     "titleBar.inactiveBackground": "#072020",
     "titleBar.inactiveForeground": "#E3BC8F92",
     // Gitlens specific (do not sort with the rest)
+    "gitlens.gutterBackgroundColor": "#07262600", // Making it transparent actually yields better results
     "gitlens.gutterForegroundColor": "#E3BC8F",
-    "gitlens.trailingLineForegroundColor": "#E3BC8F99"
+    "gitlens.trailingLineForegroundColor": "#9AE399a0"
   },
   "semanticHighlighting": true,
   "semanticTokenColors": {
