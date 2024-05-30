@@ -452,6 +452,15 @@
       }
     },
     {
+      // Necessary because they'll inherit the decorator color
+      "name": "Python: Function Call Parameter",
+      "scope": ["variable.parameter.function-call.python"],
+      "settings": {
+        "foreground": "#E3BC8F",
+        "fontStyle": ""
+      }
+    },
+    {
       "name": "TS Keyword",
       "scope": [
         "constant.language.boolean.false.js",
