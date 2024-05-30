@@ -29,12 +29,12 @@
     "debugConsole.sourceForeground": "#A2D5E0",
     "debugConsole.warningForeground": "#ffce3a",
     "debugIcon.breakpointForeground": "#ff3a3a",
-    "debugIcon.pauseForeground": "#0088ff",
+    "debugIcon.pauseForeground": "#1e96ff",
     "debugIcon.restartForeground": "#5AC648",
-    "debugIcon.stepBackForeground": "#0088ff",
-    "debugIcon.stepIntoForeground": "#0088ff",
-    "debugIcon.stepOutForeground": "#0088ff",
-    "debugIcon.stepOverForeground": "#0088ff",
+    "debugIcon.stepBackForeground": "#1e96ff",
+    "debugIcon.stepIntoForeground": "#1e96ff",
+    "debugIcon.stepOutForeground": "#1e96ff",
+    "debugIcon.stepOverForeground": "#1e96ff",
     "debugIcon.stopForeground": "#ff3a3a",
     "debugToolBar.background": "#072020",
     "debugView.stateLabelBackground": "#08302C",
@@ -74,8 +74,8 @@
     "editorRuler.foreground": "#E3BC8F6e",
     "editorStickyScrollHover.background": "#0A3D38",
     "editorSuggestWidget.border": "#0b3934",
-    "editorSuggestWidget.focusHighlightForeground": "#0088ff",
-    "editorSuggestWidget.highlightForeground": "#0088ff",
+    "editorSuggestWidget.focusHighlightForeground": "#1e96ff",
+    "editorSuggestWidget.highlightForeground": "#1e96ff",
     "editorWidget.background": "#082B2B",
     "editorWidget.border": "#0b3934",
     "editorWidget.foreground": "#E3BC8F",
@@ -156,8 +156,8 @@
     "tab.inactiveBackground": "#072020",
     "terminal.dropBackground": "#1050993f",
     "terminal.foreground": "#E3BC8F",
-    "textLink.activeForeground": "#0088ff",
-    "textLink.foreground": "#0088ff",
+    "textLink.activeForeground": "#1e96ff",
+    "textLink.foreground": "#1e96ff",
     "titleBar.activeBackground": "#072020",
     "titleBar.activeForeground": "#E3BC8F",
     "titleBar.border": "#0b3934",
@@ -642,7 +642,7 @@
       "name": "Markup: Links",
       "scope": ["markup.underline.link"],
       "settings": {
-        "foreground": "#0088ff"
+        "foreground": "#1e96ff"
       }
     },
     {
