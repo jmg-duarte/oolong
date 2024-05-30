@@ -41,6 +41,7 @@
     "descriptionForeground": "#E3BC8F99",
     "dropdown.background": "#072020",
     "dropdown.border": "#0b3934",
+    "dropdown.foreground": "#E3BC8F",
     "editor.background": "#072626",
     "editor.findMatchHighlightBackground": "#034661d0",
     "editor.findMatchHighlightBorder": "#034661",
