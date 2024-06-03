@@ -154,6 +154,7 @@
     "tab.border": "#0b3934",
     "tab.hoverBackground": "#082B2B",
     "tab.inactiveBackground": "#072020",
+    "tab.lastPinnedBorder": "#0b3934",
     "terminal.dropBackground": "#1050993f",
     "terminal.foreground": "#E3BC8F",
     "textLink.activeForeground": "#1e96ff",
