@@ -681,6 +681,41 @@
         "foreground": "#5FC3A5",
         "fontStyle": "italic"
       }
+    },
+    {
+      "name": "Rust: Control Flow",
+      "scope": ["keyword.control.rust"],
+      "settings": {
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Rust: Other",
+      "scope": ["keyword.other.rust", "keyword.other.fn.rust"],
+      "settings": {
+        "foreground": "#9AE399"
+      }
+    },
+    {
+      "name": "Rust: Storage",
+      "scope": ["storage.type.rust", "storage.modifier.mut.rust"],
+      "settings": {
+        "foreground": "#9AE399"
+      }
+    },
+    {
+      "name": "Rust: Constants",
+      "scope": ["constant.language.bool.rust"],
+      "settings": {
+        "foreground": "#9AE399"
+      }
+    },
+    {
+      "name": "Rust: Macros",
+      "scope": ["meta.attribute.rust"],
+      "settings": {
+        "foreground": "#C095EF"
+      }
     }
   ]
 }
