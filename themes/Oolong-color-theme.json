@@ -693,7 +693,11 @@
     },
     {
       "name": "Rust: Other",
-      "scope": ["keyword.other.rust", "keyword.other.fn.rust"],
+      "scope": [
+        "keyword.other.rust",
+        "keyword.other.fn.rust",
+        "keyword.other.crate.rust"
+      ],
       "settings": {
         "foreground": "#9AE399"
       }
