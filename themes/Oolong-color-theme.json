@@ -166,6 +166,7 @@
     "titleBar.border": "#0b3934",
     "titleBar.inactiveBackground": "#072020",
     "titleBar.inactiveForeground": "#E3BC8F92",
+    "tree.indentGuidesStroke": "#E3BC8F",
     // Gitlens specific (do not sort with the rest)
     "gitlens.gutterBackgroundColor": "#07262600", // Making it transparent actually yields better results
     "gitlens.gutterForegroundColor": "#E3BC8F",
