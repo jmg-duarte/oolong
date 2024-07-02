@@ -159,6 +159,7 @@
     "tab.lastPinnedBorder": "#0b3934",
     "terminal.dropBackground": "#1050993f",
     "terminal.foreground": "#E3BC8F",
+    "terminalStickyScrollHover.background": "#0A3D38",
     "textLink.activeForeground": "#1e96ff",
     "textLink.foreground": "#1e96ff",
     "titleBar.activeBackground": "#072020",
