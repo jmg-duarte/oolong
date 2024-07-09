@@ -270,7 +270,10 @@
     "*.deprecated": {
       "fontStyle": "strikethrough"
     },
-    "comment": "#5bc648"
+    "comment": "#5bc648",
+    "label": {
+      "fontStyle": "bold"
+    }
   },
   "tokenColors": [
     {
