@@ -60,7 +60,7 @@
     "editorBracketHighlight.foreground1": "#9AE399",
     "editorBracketHighlight.foreground2": "#A2D5E0",
     "editorBracketHighlight.foreground3": "#5FC3A5",
-    "editorBracketHighlight.foreground4": "#C095EF",
+    "editorBracketHighlight.foreground4": "#D0ABF7",
     "editorCommentsWidget.replyInputBackground": "#072626",
     "editorCursor.foreground": "#EDC291",
     "editorError.foreground": "#ff3a3a",
@@ -207,19 +207,19 @@
     },
     // Macro related
     "macro": {
-      "foreground": "#C095EF"
+      "foreground": "#D0ABF7"
     },
     "builtinAttribute": {
-      "foreground": "#C095EF"
+      "foreground": "#D0ABF7"
     },
     "decorator": {
-      "foreground": "#C095EF"
+      "foreground": "#D0ABF7"
     },
     "deriveHelper": {
-      "foreground": "#C095EF"
+      "foreground": "#D0ABF7"
     },
-    "attribute": "#C095EF",
-    "attributeBracket": "#C095EF",
+    "attribute": "#D0ABF7",
+    "attributeBracket": "#D0ABF7",
     // Functions / Methods
     "method": {},
     "function": {},
@@ -231,7 +231,7 @@
       "fontStyle": ""
     },
     "escapeSequence": {
-      "foreground": "#C095EF",
+      "foreground": "#D0ABF7",
       "fontStyle": "bold"
     },
     "keyword": {
@@ -300,7 +300,7 @@
       "name": "Strings: Escape Sequences",
       "scope": "constant.character.escape",
       "settings": {
-        "foreground": "#C095EF",
+        "foreground": "#D0ABF7",
         "fontStyle": "bold"
       }
     },
@@ -391,7 +391,7 @@
       "name": "Fallback: Macro",
       "scope": ["entity.name.function.macro"],
       "settings": {
-        "foreground": "#C095EF"
+        "foreground": "#D0ABF7"
       }
     },
     {
@@ -441,7 +441,7 @@
         "meta.function.decorator.python"
       ],
       "settings": {
-        "foreground": "#C095EF"
+        "foreground": "#D0ABF7"
       }
     },
     {
@@ -726,7 +726,7 @@
       "name": "Rust: Macros",
       "scope": ["meta.attribute.rust"],
       "settings": {
-        "foreground": "#C095EF"
+        "foreground": "#D0ABF7"
       }
     }
   ]
