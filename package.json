@@ -3,7 +3,7 @@
   "displayName": "Oolong",
   "description": "Yet another dark theme for VSCode.",
   "publisher": "jmg-duarte",
-  "version": "0.14.6",
+  "version": "0.14.7",
   "icon": "static/logo/logo.png",
   "repository": {
     "type": "git",
