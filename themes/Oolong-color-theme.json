@@ -298,12 +298,13 @@
     },
     {
       "name": "Strings: Escape Sequences",
-      "scope": "constant.character.escape",
+      "scope": ["constant.character.escape", "support.other.escape.special"],
       "settings": {
         "foreground": "#D0ABF7",
         "fontStyle": "bold"
       }
     },
+
     {
       "name": "Constant Literals",
       "scope": ["constant.numeric", "constant.language.json.comments"],
@@ -345,7 +346,6 @@
       }
     },
     {
-      // NOTE: maybe just keyword.control would work
       "name": "Fallback: Control Flow",
       "scope": ["keyword.control"],
       "settings": {
