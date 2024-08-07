@@ -108,6 +108,7 @@
     "menu.foreground": "#EDC291",
     "menu.selectionBackground": "#0A3D38",
     "menu.selectionForeground": "#EDC291",
+    "multiDiffEditor.headerBackground": "#072020",
     "notifications.background": "#072020",
     "notifications.border": "#0b3934",
     "panel.background": "#072020",
