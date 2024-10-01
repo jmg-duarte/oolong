@@ -31,7 +31,7 @@
     "debugConsole.warningForeground": "#ffce3a",
     "debugIcon.breakpointForeground": "#ff3a3a",
     "debugIcon.pauseForeground": "#1e96ff",
-    "debugIcon.restartForeground": "#5AC648",
+    "debugIcon.restartForeground": "#6CCD5B",
     "debugIcon.stepBackForeground": "#1e96ff",
     "debugIcon.stepIntoForeground": "#1e96ff",
     "debugIcon.stepOutForeground": "#1e96ff",
@@ -271,7 +271,7 @@
     "*.deprecated": {
       "fontStyle": "strikethrough"
     },
-    "comment": "#5bc648",
+    "comment": "#6CCD5B",
     "label": {
       "fontStyle": "bold"
     }
@@ -282,7 +282,7 @@
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         // "fontStyle": "italic",
-        "foreground": "#5AC648"
+        "foreground": "#6CCD5B"
       }
     },
     {
