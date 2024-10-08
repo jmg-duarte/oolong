@@ -25,6 +25,11 @@
         "label": "Oolong",
         "uiTheme": "vs-dark",
         "path": "./themes/Oolong-color-theme.json"
+      },
+      {
+        "label": "Milk Oolong (Beta)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Oolong-color-theme.json"
       }
     ]
   },
