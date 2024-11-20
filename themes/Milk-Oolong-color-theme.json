@@ -612,6 +612,18 @@
       }
     },
     {
+      "name": "JS & TS (X): Ternary",
+      "scope": [
+        "keyword.operator.ternary.js.jsx",
+        "keyword.operator.ternary.tsx",
+        "keyword.operator.ternary.js",
+        "keyword.operator.ternary.ts"
+      ],
+      "settings": {
+        "fontStyle": "bold"
+      }
+    },
+    {
       "name": "JS & TS (X): This",
       "scope": [
         "variable.language.this.js",
