@@ -473,6 +473,13 @@
       }
     },
     {
+      "name": "JSX & TSX: Tags",
+      "scope": ["entity.name.tag.js.jsx", "entity.name.tag.tsx"],
+      "settings": {
+        "foreground": "#9AE399"
+      }
+    },
+    {
       "name": "TS Keyword",
       "scope": [
         "constant.language.boolean.false.js",

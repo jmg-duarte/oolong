@@ -605,6 +605,13 @@
       }
     },
     {
+      "name": "JSX & TSX: Tags",
+      "scope": ["entity.name.tag.js.jsx", "entity.name.tag.tsx"],
+      "settings": {
+        "foreground": "#9AE399"
+      }
+    },
+    {
       "name": "JS & TS (X): This",
       "scope": [
         "variable.language.this.js",
