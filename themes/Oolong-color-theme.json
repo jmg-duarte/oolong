@@ -473,6 +473,13 @@
       }
     },
     {
+      "name": "HTML: Tags",
+      "scope": ["entity.name.tag.html"],
+      "settings": {
+        "foreground": "#9AE399"
+      }
+    },
+    {
       "name": "JSX & TSX: Tags",
       "scope": ["entity.name.tag.js.jsx", "entity.name.tag.tsx"],
       "settings": {
