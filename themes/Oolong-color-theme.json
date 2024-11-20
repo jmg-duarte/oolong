@@ -731,6 +731,42 @@
       "settings": {
         "foreground": "#D0ABF7"
       }
+    },
+    {
+      "name": "Diff: Header",
+      "scope": ["meta.diff.header", "meta.diff.index"],
+      "settings": {
+        "foreground": "#A2D5E0"
+      }
+    },
+    {
+      "name": "Diff: Range",
+      "scope": ["meta.diff.range.unified"],
+      "settings": {
+        "foreground": "#D0ABF7"
+      }
+    },
+    {
+      "name": "Diff: Delete",
+      "scope": [
+        "punctuation.definition.deleted.diff",
+        "markup.deleted.diff",
+        "meta.diff.header.from-file"
+      ],
+      "settings": {
+        "foreground": "#FF4A1C"
+      }
+    },
+    {
+      "name": "Diff: Inserted",
+      "scope": [
+        "punctuation.definition.inserted.diff",
+        "markup.inserted.diff",
+        "meta.diff.header.to-file"
+      ],
+      "settings": {
+        "foreground": "#82FF74"
+      }
     }
   ]
 }
