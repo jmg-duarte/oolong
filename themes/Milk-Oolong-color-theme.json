@@ -721,7 +721,7 @@
     },
     {
       "name": "Rust: Control Flow",
-      "scope": ["keyword.control.rust"],
+      "scope": ["keyword.control.rust", "keyword.operator.question.rust"],
       "settings": {
         "fontStyle": "bold"
       }
