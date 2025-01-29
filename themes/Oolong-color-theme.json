@@ -155,7 +155,7 @@
     "statusBarItem.remoteBackground": "#072020",
     "statusBarItem.remoteForeground": "#EDC291",
     "statusBarItem.remoteHoverBackground": "#EDC291",
-    "statusBarItem.remoteHoverForeground": "#072626",
+    "statusBarItem.remoteHoverForeground": "#072020",
     "tab.activeBorder": "#072626",
     "tab.activeBorderTop": "#EDC291",
     "tab.activeForeground": "#EDC291",
