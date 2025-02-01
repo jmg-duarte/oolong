@@ -88,6 +88,7 @@
     "extensionButton.separator": "#EDC291",
     "focusBorder": "#0b3934",
     "foreground": "#EDC291",
+    "gitDecoration.modifiedResourceForeground": "#A2D5E0",
     "icon.foreground": "#EDC291",
     "input.background": "#082D29",
     "input.border": "#0b3934",
