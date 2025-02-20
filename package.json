@@ -30,6 +30,11 @@
         "label": "Milk Oolong (Beta)",
         "uiTheme": "vs-dark",
         "path": "./themes/Milk-Oolong-color-theme.json"
+      },
+      {
+        "label": "Dry Oolong (Experimental)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dry-Oolong-color-theme.json"
       }
     ]
   },
