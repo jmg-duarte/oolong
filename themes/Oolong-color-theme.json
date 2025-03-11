@@ -666,7 +666,7 @@
         "keyword.other.debugger.js",
         "keyword.other.debugger.jsx",
         "keyword.other.debugger.ts",
-        "keyword.other.debugger.ts"
+        "keyword.other.debugger.tsx"
       ],
       "settings": {
         "fontStyle": "bold",
