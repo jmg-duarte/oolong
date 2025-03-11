@@ -661,6 +661,19 @@
       }
     },
     {
+      "name": "JS & TS (X): Debugger",
+      "scope": [
+        "keyword.other.debugger.js",
+        "keyword.other.debugger.jsx",
+        "keyword.other.debugger.ts",
+        "keyword.other.debugger.ts"
+      ],
+      "settings": {
+        "fontStyle": "bold",
+        "foreground": "#fe6f6f"
+      }
+    },
+    {
       "name": "Go: Control Flow",
       "scope": ["keyword.control.go"],
       "settings": {
